@@ -47,8 +47,8 @@
 
 - **소개**: 프론트·백 분리 · JWT 기반 인증으로 협업 효율 및 확장성 강화  
 - **역할**: Node.js 서버 분리 · RESTful API 설계
-- **레포지토리**: [GitHub ↗️](https://github.com/kosta-selfit/selfit-server)
-- **레포지토리**: [GitHub ↗️](https://github.com/kosta-selfit/selfit-ui-node) 
+- **Back-end 레포지토리**: [GitHub ↗️](https://github.com/kosta-selfit/selfit-server)
+- **front-end 레포지토리**: [GitHub ↗️](https://github.com/kosta-selfit/selfit-ui-node) 
 - **기술 스택**: Spring Boot · JPA · MyBatis · JWT · Spring Security · MariaDB · AWS EC2  
 - **성과**:  
   - Thymeleaf 제거 및 서버 분리로 요청/응답 흐름 명확화  
