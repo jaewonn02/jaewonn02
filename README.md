@@ -70,4 +70,3 @@
 
 - **Email**: dlwodnjs2669@gmail.com  
 - **Phone**: 010-7486-8669  
-- **GitHub**: [jaewonn02](https://github.com/jaewonn02) 
